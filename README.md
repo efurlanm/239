@@ -4,7 +4,7 @@
 
 - caotica.py - chaotic time series of the quadratic map
 - dados-binom-norm-01 and 02 -  binomial probability
-- MFDFA1_com_psi.m - Multifractal detrended fluctuation analysis
+- MFDFA1_com_psi.m - multifractal detrended fluctuation analysis
 - pdf.py - adapted from https://stackoverflow.com/questions/37559470/what-do-all-the-distributions-available-in-scipy-stats-look-like
 - Plota_Versao_2_SERIE_PSD_DFA.py - adapted from GIOVANI, P. 3DBMO Projetc. INPE
 - pmodel-resultados.pdf - comparison of the Octave and Python outputs
