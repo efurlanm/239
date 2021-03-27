@@ -1,4 +1,4 @@
-# My personal repository for the CAP-239 course
+# My personal course repository
 
 ## Summary of works
 
