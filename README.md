@@ -1,4 +1,4 @@
-# My personal course repository
+# My personal repository of the course CAP-239 Computational Mathematics I
 
 ## Summary of works
 
