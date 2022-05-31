@@ -2,6 +2,7 @@
 
 CAP-239 Computational Mathematics I
 
+
 ## Summary of works
 
 - caotica.py - chaotic time series of the quadratic map
