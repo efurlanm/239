@@ -1,4 +1,4 @@
-# My personal repo
+# My personal notes
 
 
 ## Summary of works
