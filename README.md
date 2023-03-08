@@ -1,4 +1,4 @@
-# My personal notes
+# My personal repository and course notes
 
 
 ## Summary of works
