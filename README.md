@@ -1,4 +1,4 @@
-# My personal course repository
+# My personal repository for the Computational Mathematics CAP239 course
 
 
 ## Summary of works
