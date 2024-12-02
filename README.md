@@ -1,4 +1,6 @@
-# My personal repository and course notes
+# Computational Mathematics (CAP 239)
+
+My personal notes from the course and assignments.
 
 
 ## Summary of works
